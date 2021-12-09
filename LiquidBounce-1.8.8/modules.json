@@ -1,0 +1,374 @@
+{
+  "AimAssist": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Aimbot": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Animations": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AntiBot": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AntiCactus": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AntiHunger": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoArmor": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoBow": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoBreak": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoJump": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoLeave": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoPot": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoRespawn": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoSoup": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoSword": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoTool": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "AutoWalk": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Blink": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "BowAimbot": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "ChestAura": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "ChestStealer": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "CivBreak": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "ClickGUI": {
+    "State": false,
+    "KeyBind": 54
+  },
+  "ConsoleSpammer": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Criticals": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "ESP": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Eagle": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "FastBow": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "FastBreak": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "FastClimb": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "FastPlace": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "FastUse": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Fly": {
+    "State": false,
+    "KeyBind": 33
+  },
+  "FreeCam": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Fucker": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Fullbright": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "Ghost": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "GhostHand": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Glide": {
+    "State": false,
+    "KeyBind": 44
+  },
+  "HUD": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "HackerDetector": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "HighJump": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "HitBox": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "IceSpeed": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "InventoryMove": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "ItemESP": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Jetpack": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "KillAura": {
+    "State": false,
+    "KeyBind": 19
+  },
+  "LadderJump": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "LiquidWalk": {
+    "State": false,
+    "KeyBind": 36
+  },
+  "LongJump": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "MidClick": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NameProtect": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NameTags": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "NoClip": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoFall": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoHurtCam": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoRotateSet": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoScoreboard": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoSlow": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "NoWeb": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Nuker": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Paralyze": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Parkour": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "PingSpoof": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Plugins": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Projectiles": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "PryticPhase": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Reach": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Regen": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "SafeWalk": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Scaffold": {
+    "State": false,
+    "KeyBind": 23
+  },
+  "SkinDerp": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "SkipPhase": {
+    "State": false,
+    "KeyBind": 25
+  },
+  "Sneak": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Spammer": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Speed": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Sprint": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "Step": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "StorageESP": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Strafe": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "TPAura": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Teams": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "Teleport": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Timer": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Tower": {
+    "State": false,
+    "KeyBind": 24
+  },
+  "Tracers": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Trigger": {
+    "State": true,
+    "KeyBind": 0
+  },
+  "Velocity": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "WallClimb": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "WireFrameESP": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "XRay": {
+    "State": false,
+    "KeyBind": 0
+  },
+  "Zoot": {
+    "State": false,
+    "KeyBind": 0
+  }
+}

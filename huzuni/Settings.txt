@@ -1,0 +1,12 @@
+Font Fractional Metrics:false
+themeBlue:255
+Antialias:true
+Ingame Theme:3
+Font:Verdana
+Line Size:1.0
+Font Size:18
+themeRed:0
+themeGreen:167
+Custom Font:true
+Font Antialias:true
+First use:false

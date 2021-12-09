@@ -1,0 +1,65 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "b9720d9a-fde0-4deb-94a1-a11cc0dd7334",
+  "authenticationDatabase": {
+    "0721000a602e3c03803a30316ec1886c": {
+      "displayName": "sdfdsf",
+      "accessToken": "null",
+      "userid": "sdfdsf",
+      "uuid": "0721000a-602e-3c03-803a-30316ec1886c",
+      "username": "sdfdsf"
+    },
+    "306dd6ab6aad35b886ac2cbb0ee254b6": {
+      "displayName": "dsd",
+      "accessToken": "null",
+      "userid": "dsd",
+      "uuid": "306dd6ab-6aad-35b8-86ac-2cbb0ee254b6",
+      "username": "dsd"
+    },
+    "9f0e033a274d31748b9144573938ceb7": {
+      "displayName": "iFrozeadoo",
+      "accessToken": "null",
+      "userid": "iFrozeadoo",
+      "uuid": "9f0e033a-274d-3174-8b91-44573938ceb7",
+      "username": "iFrozeadoo"
+    },
+    "470e5dbdabf93a239de2b39dcae6c0b1": {
+      "displayName": "sfdf",
+      "userid": "sfdf",
+      "uuid": "470e5dbd-abf9-3a23-9de2-b39dcae6c0b1",
+      "username": "sfdf"
+    },
+    "c34a048b4f6639008bff428b8d0d179b": {
+      "displayName": "brayanrc16",
+      "accessToken": "null",
+      "userid": "brayanrc16",
+      "uuid": "c34a048b-4f66-3900-8bff-428b8d0d179b",
+      "username": "brayanrc16"
+    },
+    "d79ef223e6733cec910e02d20156df16": {
+      "displayName": "sad",
+      "accessToken": "null",
+      "userid": "sad",
+      "uuid": "d79ef223-e673-3cec-910e-02d20156df16",
+      "username": "sad"
+    },
+    "afee05aacc89375d924de7cd89bf476e": {
+      "displayName": "SelsiusRC28",
+      "accessToken": "null",
+      "userid": "SelsiusRC28",
+      "uuid": "afee05aa-cc89-375d-924d-e7cd89bf476e",
+      "username": "SelsiusRC28"
+    }
+  },
+  "selectedUser": "470e5dbdabf93a239de2b39dcae6c0b1",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16,
+    "profilesFormat": 1
+  }
+}

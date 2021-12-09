@@ -1,0 +1,49 @@
+Auto Tool:36
+Anti Knockback:-1
+Anti Censor:-1
+Dolan Speak:-1
+NoFall:-1
+Sprint:50
+Respawn:-1
+Flight:-1
+Xray:45
+Bright:46
+Kill Aura:-1
+Speedmine:47
+Auto Fish:-1
+Dolphin:37
+Glide:-1
+Retard:-1
+Sneak:44
+Auto Disconnect:-1
+Chest ESP:21
+Tracer:48
+Auto Accept:-1
+Spider:-1
+Freecam:22
+Projectiles:-1
+Breadcrumb:-1
+Nametags:25
+Fast Ladder:-1
+Step:-1
+Auto Sign:-1
+Nuker:38
+Auto Farm:35
+Fast Place:33
+Wireframe:34
+Chest Stealer:-1
+Vehicle 1-hit:-1
+Auto Armor:-1
+Auto Soup:-1
+Click Aimbot:19
+Auto Build:-1
+Criticals:-1
+Middle Click Friends:-1
+No Slowdown:-1
+Status HUD:-1
+Jump Prediction:-1
+Chest Xploder:-1
+Timer:-1
+Bow aimbot:-1
+Auto Potion:-1
+GUI:54

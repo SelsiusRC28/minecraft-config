@@ -1,0 +1,15 @@
+{
+  "clientToken": "a39d3989-57fc-414c-aa52-fdacf983bd8b",
+  "accounts": {
+    "c4150ac3dea747a2be6fdf53c0bb5f80": {
+      "username": "brayanrc16",
+      "userID": "brayanrc16",
+      "displayName": "brayanrc16",
+      "uuid": "c4150ac3dea747a2be6fdf53c0bb5f80",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "c4150ac3dea747a2be6fdf53c0bb5f80",
+  "freeAccountUUID": "c4150ac3dea747a2be6fdf53c0bb5f80"
+}

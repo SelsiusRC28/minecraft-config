@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Mods>
+    <Mod Auto_tool_mode="0" Enabled="false" Name="Auto Tool"/>
+    <Mod Enabled="false" Name="Anti Knockback" Ratio="80.0"/>
+    <Mod Enabled="false" Name="Anti Censor"/>
+    <Mod Enabled="false" Name="Dolan Speak"/>
+    <Mod Enabled="false" Name="NoFall"/>
+    <Mod Enabled="true" Name="Sprint" Run_speed="1.0"/>
+    <Mod Enabled="false" Name="Respawn"/>
+    <Mod Enabled="false" Name="Flight" Speed="1.0"/>
+    <Mod Enabled="false" Name="Xray" Xray_opacity="70.0"/>
+    <Mod Bright_mode="0" Enabled="true" Name="Bright"/>
+    <Mod Animals="false" Auto_Block="false" Enabled="false" FOV="60.0" Invisible="true" Mobs="false" Name="Kill Aura" Players="true" Random_Misses="false" Reach="3.8" Rot._rate="45.0" Silent="true" Speed="8.0" Speed_Rndm="0.0" Targetting="0" Triggerbot="false"/>
+    <Mod Enabled="false" Mine_speed="1.0" Name="Speedmine"/>
+    <Mod Enabled="false" Name="Auto Fish"/>
+    <Mod Enabled="false" Name="Dolphin"/>
+    <Mod Enabled="false" Name="Glide"/>
+    <Mod Enabled="false" Name="Retard" Retard_mode="0" Swing_arm="false"/>
+    <Mod Enabled="false" Name="Sneak" Sneak_mode="0"/>
+    <Mod Enabled="false" Name="Auto Disconnect"/>
+    <Mod Enabled="false" Lines="false" Name="Chest ESP"/>
+    <Mod Animals="false" Boxes="true" Color_Option="0" Enabled="false" Lines="true" Mobs="false" Name="Tracer" Players="false" Team="false"/>
+    <Mod Enabled="false" Name="Auto Accept"/>
+    <Mod Enabled="false" Name="Spider"/>
+    <Mod Enabled="false" Name="Freecam" Speed="1.0"/>
+    <Mod Arrows="false" Enabled="false" Name="Projectiles"/>
+    <Mod Enabled="false" Name="Breadcrumb"/>
+    <Mod Enabled="true" Ignore_Culling="true" Name="Nametags" Nametag_scale="1.0" Opacity="25.0" Scale="true" Show_armor="true" Show_enchants="true" Show_health="true"/>
+    <Mod Enabled="false" Name="Fast Ladder"/>
+    <Mod Enabled="false" Name="Step" Step_height="1.0"/>
+    <Mod Enabled="false" Name="Auto Sign"/>
+    <Mod Enabled="false" Name="Nuker" Nuker_mode="0" Nuker_radius="5.0" Nuker_speed="3.0" Render_area="false"/>
+    <Mod Enabled="false" Farm_mode="0" Name="Auto Farm"/>
+    <Mod Enabled="false" Fastplace_speed="4.0" Name="Fast Place"/>
+    <Mod Enabled="false" Name="Wireframe"/>
+    <Mod Enabled="false" Name="Chest Stealer"/>
+    <Mod Enabled="false" Name="Vehicle 1-hit"/>
+    <Mod Enabled="false" Name="Auto Armor"/>
+    <Mod Enabled="false" Health="14.0" Name="Auto Soup"/>
+    <Mod Animals="false" Enabled="false" FOV="180.0" Mobs="false" Name="Click Aimbot" Players="true" Reach="6.0" Yaw_rate="180.0"/>
+    <Mod Delay="500.0" Enabled="false" Name="Auto Build"/>
+    <Mod Enabled="false" Name="Criticals"/>
+    <Mod Enabled="false" Name="Middle Click Friends"/>
+    <Mod Enabled="false" Name="No Slowdown"/>
+    <Mod Enabled="true" Name="Status HUD" Scale="1.0"/>
+    <Mod Enabled="false" Name="Inventory Helper"/>
+    <Mod Enabled="false" Name="Jump Prediction"/>
+    <Mod Enabled="false" Name="Chest Xploder"/>
+    <Mod Enabled="false" Multiplier="1.0" Name="Timer"/>
+    <Mod Enabled="false" Name="Bow aimbot"/>
+    <Mod Enabled="false" Health="14.0" Name="Auto Potion"/>
+</Mods>

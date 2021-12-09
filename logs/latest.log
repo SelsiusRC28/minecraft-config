@@ -1,0 +1,174 @@
+[14:34:45] [Client thread/INFO]: Setting user: iFrozeadoo
+[14:34:45] [Client thread/INFO]: (Session ID is token:1337535510N:9f0e033a274d31748b9144573938ceb7)
+[14:34:47] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[14:34:47] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:34:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[14:34:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[14:34:47] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:34:48] [Client thread/INFO]: [OptiFine] 
+[14:34:48] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[14:34:48] [Client thread/INFO]: [OptiFine] Build: null
+[14:34:48] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:34:48] [Client thread/INFO]: [OptiFine] Java: 1.8.0_301, Oracle Corporation
+[14:34:48] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:34:48] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[14:34:48] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[14:34:48] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[14:34:48] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[14:34:48] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[14:34:48] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:34:48] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[14:34:48] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[14:34:48] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[14:34:48] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[14:34:48] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:34:48] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:34:48] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[14:34:48] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[14:34:48] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[14:34:48] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[14:34:48] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[14:34:48] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[14:34:48] [Client thread/INFO]: Reloading ResourceManager: Default, !        §l§5NotRamix §4[Private] (1).zip
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[14:34:48] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[14:34:48] [Client thread/INFO]: [OptiFine] Resource packs: !        §l§5NotRamix §4[Private] (1).zip
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.preDraw
+[14:34:48] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.postDraw
+[14:34:48] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:34:48] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[14:34:49] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:34:49] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:34:49] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[14:34:49] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[14:34:49] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[14:34:50] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[14:34:50] [Client thread/INFO]: [OptiFine] Multitexture: false
+[14:34:50] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[14:34:50] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:34:50] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:34:50] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:34:51] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:34:51] [Client thread/INFO]: [OptiFine] Animated sprites: 15
+[14:34:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[14:34:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[14:34:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[14:34:51] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[14:34:52] [Client thread/INFO]: [LC] Starting Lunar client...
+[14:34:52] [Thread-6/INFO]: OpenAL initialized.
+[14:34:52] [Sound Library Loader/INFO]: Sound engine started
+[14:34:55] [Client thread/WARN]: [LC] LCUI TOP
+[14:34:55] [Client thread/WARN]: [LC] LCUI BOT
+[14:34:56] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.dX.IlllIIIIIlllllllIIIIIllIl
+[14:34:56] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[14:34:56] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:34:56] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:34:56] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:34:56] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:34:56] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:34:56] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:34:56] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:34:56] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:34:56] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id 0721000a602e3c03803a30316ec1886c: no profile
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id 306dd6ab6aad35b886ac2cbb0ee254b6: no profile
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id 9f0e033a274d31748b9144573938ceb7: no profile
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id c34a048b4f6639008bff428b8d0d179b: no profile
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id d79ef223e6733cec910e02d20156df16: no profile
+[14:34:56] [Client thread/INFO]: [LC Accounts] Could not load account with id afee05aacc89375d924de7cd89bf476e: no profile
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: ady.getWaterColorMultiplier
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addDestroyEffects
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addHitEffects
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canCreatureSpawn
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canRenderInLayer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.doesSideBlockRendering
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getBedDirection
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getExtendedState
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightOpacity
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightValue
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.hasTileEntity
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isAir
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBed
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBedFoot
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isSideSolid
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adv.isSideSolid
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.canRiderInteract
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.captureDrops
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.capturedDrops
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRenderInPass
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRiderSit
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: zw.delegate
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getDurabilityForDisplay
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getModel
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.onEntitySwing
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.shouldCauseReequipAnimation
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.showDurabilityBar
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pf.isCurativeItem
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.canRenderBreaking
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.getRenderBoundingBox
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.hasFastRenderer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.shouldRenderInPass
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.countEntities
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.getPerWorldStorage
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getCloudRenderer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSkyRenderer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getWeatherRenderer
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSaveFolder
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[14:34:57] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[14:34:58] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[14:34:58] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 6aef3f
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomColors: sky.end = FFFFFF
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[14:34:58] [Client thread/WARN]: [OptiFine] Unknown blend: normal
+[14:34:58] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[14:34:59] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[14:34:59] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[14:34:59] [Thread-12/INFO]: [LC Discord] Connected to Discord IPC
+[14:35:17] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[14:35:17] [Server thread/INFO]: Generating keypair
+[14:35:17] [Server thread/INFO]: Preparing start region for level 0
+[14:35:18] [Server thread/INFO]: Preparing spawn area: 60%
+[14:35:19] [Server thread/INFO]: Changing view distance to 33, from 10
+[14:35:20] [Server thread/INFO]: iFrozeadoo[local:E:d54b4fbb] logged in with entity id 230 at (-24.32755452247997, 64.0, -0.21138875416492486)
+[14:35:20] [Server thread/INFO]: iFrozeadoo se ha unido a la partida
+[14:35:26] [Thread-16/INFO]: Getting magma boss spawn estimate from server...
+[14:35:27] [Thread-16/INFO]: Got response code 200
+[14:35:27] [Thread-16/INFO]: Query time was 1638905723940, server time estimate is 1638906262613. Updating magma boss spawn to be in 538 seconds.
+[14:35:39] [Client thread/INFO]: Left Skyblock

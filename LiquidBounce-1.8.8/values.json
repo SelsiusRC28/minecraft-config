@@ -1,0 +1,136 @@
+{
+  "targets": {
+    "TargetPlayer": true,
+    "TargetMobs": true,
+    "TargetAnimals": false,
+    "TargetInvisible": false
+  },
+  "AimAssist": {
+    "Range": "3.9"
+  },
+  "Aimbot": {
+    "Range": "4.4"
+  },
+  "AntiBot": {
+    "Color": "false",
+    "Tab": "true",
+    "Ping": "true",
+    "LivingTime": "false",
+    "Ground": "false"
+  },
+  "AutoArmor": {
+    "Bypass": "false"
+  },
+  "AutoLeave": {
+    "Health": "8.0"
+  },
+  "AutoPot": {
+    "Health": "15.0"
+  },
+  "AutoSoup": {
+    "Health": "15.0"
+  },
+  "ChestStealer": {
+    "Delay": "2"
+  },
+  "ClickGUI": {
+    "Style": "Null"
+  },
+  "Criticals": {
+    "Type": "packet"
+  },
+  "FastClimb": {
+    "Bypass": "false"
+  },
+  "Fly": {
+    "Bypass": "Vanilla",
+    "VanillaSpeed": "2.0",
+    "NCPMotion": "0.0",
+    "AACSpeed": "0.3"
+  },
+  "Fucker": {
+    "ID": "26"
+  },
+  "GhostHand": {
+    "ID": "54"
+  },
+  "HUD": {
+    "BlackHotbar": "true",
+    "Armor": "true",
+    "Info": "true",
+    "Effects": "true",
+    "Logo": "true",
+    "Tab": "true",
+    "RainbowArray": "false"
+  },
+  "HighJump": {
+    "Height": "2.0",
+    "AACv3": "false"
+  },
+  "HitBox": {
+    "Size": "0.4"
+  },
+  "InventoryMove": {
+    "Bypass": "false"
+  },
+  "KillAura": {
+    "Delay": "4",
+    "RandomDelay": "false",
+    "Range": "4.1",
+    "Priority": "Distance",
+    "Switch": "true",
+    "Multi": "false",
+    "ThroughWalls": "false",
+    "Swing": "true",
+    "KeepSprint": "true",
+    "AutoBlock": "false",
+    "AAC": "false",
+    "TurnSpeed": "90.0",
+    "DoubleHit": "true"
+  },
+  "LongJump": {
+    "NoCheat": "NCP"
+  },
+  "NameProtect": {
+    "FakeName": "\u0026cMe"
+  },
+  "Reach": {
+    "Reach": "2.0"
+  },
+  "Regen": {
+    "Speed": "100"
+  },
+  "Scaffold": {
+    "Type": "Normal"
+  },
+  "Spammer": {
+    "Delay": "60",
+    "Message": "LiquidBounce Hacked Client by CCBlueX"
+  },
+  "Speed": {
+    "Type": "NCPBHop",
+    "CustomSpeed": "1.6",
+    "CustomY": "0.0",
+    "CustomStrafe": "true"
+  },
+  "Sprint": {
+    "AllDirections": "false"
+  },
+  "Step": {
+    "Height": "1.0",
+    "Old": "false"
+  },
+  "Timer": {
+    "Speed": "2.0"
+  },
+  "Tower": {
+    "Fast": "false"
+  },
+  "Trigger": {
+    "Delay": "5"
+  },
+  "Velocity": {
+    "Horizontal": "0.0",
+    "Vertical": "0.0"
+  }
+}

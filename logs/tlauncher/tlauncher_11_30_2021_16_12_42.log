@@ -1,0 +1,994 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.83 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: nov 30, 2021 4:12:46 p.m.
+Running folder C:\Users\servidor\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 8191 MB RAM
+java path=C:\Users\servidor\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Phenom(tm) II X2 560 Processor
+ AMD Radeon HD 5450, AMD Radeon Graphics Processor (0x68F9), 5874 MB
+-------------------------------------------------------
+Selected locale: es_ES
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.83&client=2521bb4f-2bad-4a67-be3e-4688d97bb07f
+[Updater] Request time: 173 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 35 / 106 MB
+Garbage collector completed: 17 / 152 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\servidor\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\servidor\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 135 ms.
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm during 5
+[Browser@109172265] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_es.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+Started! (14361 ms.)
+[Loading] SUCCESS
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 118 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 64 ms.
+[SkinVersionList] Got in 104 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 109 ms.
+[ExtraVersionList] Got in 219 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 688 ms.
+[OfficialVersionList] Got in 1305 ms
+[VersionManager] Versions has been refreshed (1425 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 187 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 199 ms.
+[Double running] clear time label
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+onAuthPassed
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: LC
+[Launcher] Selected account: Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+[Launcher] Version sync info: VersionSyncInfo{id='LC',
+local=CompleteVersion{id='LC', time=Thu Dec 03 04:24:39 COT 2015, release=Thu Dec 03 04:24:39 COT 2015, type=release, class=com.moonsworth.lunar.patcher.LunarMain, minimumVersion=14, assets='1.8', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@1f66bde, libraries=[Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.23.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.7.59', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@58dbed8b, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@20db095e, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@ecb3953, packed='null'}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@3c511bcf, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@3b610e7b, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\servidor\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 730 ms.
+[TLauncherManager] add required libraries: LC
+getting downloadable org.tlauncher:netty:1.6 OFFICIAL_VERSION_REPO C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar WINDOWS
+[VersionManager] Required for version LC: [Downloadable{path='com/mojang/netty/1.6/netty-1.6.jar'; repo=EMPTY; destinations=C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\netty\1.6\netty-1.6.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@75be026f; handlers=[]; error=null;}, Downloadable{path='org/tlauncher/netty/1.6/netty-1.6.jar'; repo=EMPTY; destinations=C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@75be026f; handlers=[]; error=null;}]
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 576 ms.
+Minecraft requires java version: 8, java path: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[Downloader2] Files in queue 5
+[Downloader2] Starting download 5 files...
+[D#1] >  https://launcher.mojang.com/v1/objects/b7b9349b33230c5b80886f5c1f0a42848661c883/msvcr100.dll 
+[D#2] >  https://launcher.mojang.com/v1/objects/37a57aad121c14c25e149206179728fa62203bf0/messages_zh_TW.properties 
+[D#3] >  https://launcher.mojang.com/v1/objects/259edc45b4569427e8319895a444f4295d54348f/invalid32x32.gif 
+[D#2] >  https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/netty/1.6/netty-1.6.jar 
+[D#1] >  https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar 
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\servidor\AppData\Roaming\.minecraft\versions\LC\natives -cp C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\versions\LC\LC.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\servidor\AppData\Roaming\.minecraft com.moonsworth.lunar.patcher.LunarMain --username iFrozeadoo --version 1.8 --gameDir C:\Users\servidor\AppData\Roaming\.minecraft --assetsDir C:\Users\servidor\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid c4150ac3dea747a2be6fdf53c0bb5f80 --accessToken null --userProperties {} --userType mojang --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=TeamExtreme.io, ip=TeamExtreme.io, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft LC...
+[Launcher] Launching in: C:\Users\servidor\AppData\Roaming\.minecraft
+Starting garbage collector: 131 / 232 MB
+Garbage collector completed: 44 / 226 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+Finding dependency "com.mojang:netty:1.6": com/mojang/netty/1.6/netty-1.6.jar
+Finding dependency "oshi-project:oshi-core:1.1": oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+Finding dependency "net.java.dev.jna:jna:3.4.0": net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+Finding dependency "net.java.dev.jna:platform:3.4.0": net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+Finding dependency "com.ibm.icu:icu4j-core-mojang:51.2": com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+Finding dependency "net.sf.jopt-simple:jopt-simple:4.6": net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+Finding dependency "com.paulscode:codecjorbis:20101023": com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+Finding dependency "com.paulscode:codecwav:20101023": com/paulscode/codecwav/20101023/codecwav-20101023.jar
+Finding dependency "com.paulscode:libraryjavasound:20101123": com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+Finding dependency "com.paulscode:librarylwjglopenal:20100824": com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+Finding dependency "com.paulscode:soundsystem:20120107": com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+Finding dependency "io.netty:netty-all:4.0.23.Final": io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar
+Finding dependency "com.google.guava:guava:17.0": com/google/guava/guava/17.0/guava-17.0.jar
+Finding dependency "org.apache.commons:commons-lang3:3.3.2": org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+Finding dependency "commons-io:commons-io:2.4": commons-io/commons-io/2.4/commons-io-2.4.jar
+Finding dependency "commons-codec:commons-codec:1.9": commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+Finding dependency "net.java.jinput:jinput:2.0.5": net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+Finding dependency "net.java.jutils:jutils:1.0.0": net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+Finding dependency "com.google.code.gson:gson:2.2.4": com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+Finding dependency "com.mojang:authlib:1.5.21": com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+Finding dependency "com.mojang:realms:1.7.59": com/mojang/realms/1.7.59/realms-1.7.59.jar
+Finding dependency "org.apache.commons:commons-compress:1.8.1": org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+Finding dependency "org.apache.httpcomponents:httpclient:4.3.3": org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+Finding dependency "commons-logging:commons-logging:1.1.3": commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+Finding dependency "org.apache.httpcomponents:httpcore:4.3.2": org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+Finding dependency "org.apache.logging.log4j:log4j-api:2.0-beta9": org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+Finding dependency "org.apache.logging.log4j:log4j-core:2.0-beta9": org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar
+Finding native "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+Couldn't get Minecraft library artifact for org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822
+Couldn't get Minecraft library artifact for net.java.jinput:jinput-platform:2.0.5
+Finding dependency "tv.twitch:twitch:6.5": tv/twitch/twitch/6.5/twitch-6.5.jar
+Couldn't get Minecraft library artifact for tv.twitch:twitch-platform:6.5
+Couldn't get Minecraft library artifact for tv.twitch:twitch-external-platform:4.5
+Adding dependency FAST UTIL
+[LC] Preloaded classes: 2926
+LUNARCLIENT_STATUS_INIT
+[Bridge] Setting Bridge Implementation to lunar.dd.lllIlllIllllIlIlIIllIllIl
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.jmdns.JmDNS
+Loading class from jar: org.fusesource.jansi.WindowsAnsiOutputStream
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: com.fasterxml.jackson.databind.ObjectMapper
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: org.fusesource.jansi.WindowsAnsiOutputStream
+2021-11-30 16:14:05,594 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+Loading class from jar: org.java_websocket.client.WebSocketClient
+Loading class from jar: org.java_websocket.drafts.Draft
+Loading class from jar: org.java_websocket.drafts.Draft_6455
+[16:14:06] [Client thread/INFO]: Setting user: iFrozeadoo
+[16:14:06] [Client thread/INFO]: (Session ID is token:null:c4150ac3dea747a2be6fdf53c0bb5f80)
+[Bridge] Setting Minecraft Client instance to net.minecraft.v1_8.hshhappshsaphhshehsashpsa
+[16:14:12] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[16:14:12] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.Event$Result
+[16:14:12] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+Loading class from jar: net.minecraft.launchwrapper.Launch
+[16:14:12] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[16:14:12] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:14:14] [Client thread/INFO]: [OptiFine] 
+[16:14:14] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[16:14:14] [Client thread/INFO]: [OptiFine] Build: null
+[16:14:14] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[16:14:14] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[16:14:14] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[16:14:14] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[16:14:14] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[16:14:14] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[16:14:14] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[16:14:14] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+Loading class from jar: shadersmod.transform.SMCClassTransformer
+[16:14:14] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[16:14:14] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[16:14:14] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[16:14:14] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[16:14:14] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[16:14:14] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[16:14:14] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[16:14:14] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[16:14:14] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[16:14:14] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[16:14:14] [VersionCheck/INFO]: [OptiFine] Checking for new version
+Loading class from jar: net.minecraftforge.fml.common.Loader
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+Loading class from jar: net.minecraftforge.fml.client.SplashProgress
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[16:14:14] [Client thread/INFO]: Reloading ResourceManager: Default
+Loading class from jar: optifine.OptiFineClassTransformer
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[16:14:14] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[16:14:14] [Client thread/INFO]: [OptiFine] Resource packs: Default
+Loading class from jar: net.minecraftforge.client.model.Attributes
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppppsahheapsaashesashsssp$eahphhpeepsaaehssahsppshs.preDraw
+[16:14:14] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppppsahheapsaashesashsssp$eahphhpeepsaaehssahsppshs.postDraw
+If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[16:14:14] [Client thread/ERROR]: Couldn't initialize twitch stream
+[16:14:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:14:14] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[16:14:15] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:14:15] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+Loading class from jar: net.minecraftforge.client.ForgeHooksClient
+[16:14:16] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[16:14:17] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[16:14:17] [Client thread/INFO]: [OptiFine] Multitexture: false
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[16:14:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[16:14:18] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[16:14:18] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[16:14:21] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:14:21] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+Loading class from jar: net.minecraftforge.client.model.ModelLoader
+[16:14:22] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+Loading class from jar: net.minecraftforge.client.ItemModelMesherForge
+[16:14:22] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+Loading class from jar: net.minecraftforge.fml.client.registry.RenderingRegistry
+[16:14:22] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+Loading class from jar: net.minecraftforge.common.ForgeModContainer
+[16:14:22] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[16:14:22] [Client thread/INFO]: [LC] Starting Lunar client...
+[16:14:24] [Thread-5/INFO]: OpenAL initialized.
+[16:14:24] [Sound Library Loader/INFO]: Sound engine started
+[16:14:26] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_motionblur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/lunar_motionblur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.lIIIlIllIIIllllIllllIlIIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl$$Lambda$95/560041778.accept(Unknown Source) [?:?]
+	at lunar.cR.lllIlllIIIlIIlIlllllIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at lunar.cH.llIllIIIIIlIIIlIIIllIIIII.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cE.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at lunar.cH.llIllIIIIIlIIIlIIIllIIIII.<init>(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$startGame$afterInGame(SourceFile:3659) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 25 more
+Loading class from jar: org.slf4j.LoggerFactory
+Loading class from jar: org.slf4j.helpers.NOPLoggerFactory
+Loading class from jar: org.apache.log4j.Priority
+Loading class from jar: javassist.ClassPath
+Loading cosmetic index...
+[16:14:26] [Client thread/WARN]: [LC] LCUI TOP
+[16:14:26] [Client thread/WARN]: [LC] LCUI BOT
+[16:14:27] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.ea.lllIlllIllllIlIlIIllIllIl
+[16:14:28] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[16:14:28] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[16:14:28] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[16:14:28] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[16:14:28] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[16:14:28] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/menu_blur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/menu_blur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lIIIllIIIIlIIllIIIIIIIlll(Unknown Source) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cd.lllIlllIllllIlIlIIllIllIl.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cu.IllIllIlIIlllIllIIllIlIIl.b_(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.IIlIIlIlIllllllllIllIlIll(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$startGame$afterInGame(SourceFile:3659) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 22 more
+[16:14:28] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[16:14:28] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[16:14:28] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[16:14:28] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[16:14:28] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+Loading class from jar: org.joml.Vector4fc
+Loading class from jar: org.joml.Vector3fc
+Launching
+Loading class from jar: com.jagrosh.discordipc.IPCListener
+Loading class from jar: com.jagrosh.discordipc.IPCClient
+Loading class from jar: com.jagrosh.discordipc.entities.pipe.PipeStatus
+Loading class from jar: com.jagrosh.discordipc.entities.DiscordBuild
+[16:14:28] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/menu_blur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/menu_blur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lIIIllIIIIlIIllIIIIIIIlll(Unknown Source) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.eD.lllIlllIllllIlIlIIllIllIl.eseeehaheeppasssepehhepps(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.peseaasssshepahhahehasaee(SourceFile:819) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.bridge$displayScreen(SourceFile:3789) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$displayGuiScreen(SourceFile:3633) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.peseaasssshepahhahehasaee(SourceFile) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:476) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 22 more
+LUNARCLIENT_STATUS_STARTED
+[Bridge] Using OptiFine wrapper
+Loading class from jar: mods.betterfoliage.client.BetterFoliageClient
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+Loading class from jar: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+Loading class from jar: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+Loading class from jar: net.minecraftforge.fml.relauncher.CoreModManager
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+Loading class from jar: net.minecraftforge.common.DimensionManager
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+Loading class from jar: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+Loading class from jar: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+Loading class from jar: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+Loading class from jar: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.Event
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.EventBus
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+Loading class from jar: net.minecraftforge.common.property.ExtendedBlockState
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+Loading class from jar: net.minecraftforge.fml.client.FMLClientHandler
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+Loading class from jar: net.minecraftforge.fml.common.FMLCommonHandler
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aspphhesssspshaphphpaepee.getWaterColorMultiplier
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.addDestroyEffects
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.addHitEffects
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.canCreatureSpawn
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.canRenderInLayer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.doesSideBlockRendering
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getBedDirection
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getExtendedState
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getLightOpacity
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getLightValue
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.hasTileEntity
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isAir
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isBed
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isBedFoot
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isSideSolid
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.heaeaephhsspphpahhphhepps.isSideSolid
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.canRiderInteract
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.captureDrops
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.capturedDrops
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.shouldRenderInPass
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.shouldRiderSit
+Loading class from jar: net.minecraftforge.event.ForgeEventFactory
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+Loading class from jar: net.minecraftforge.common.ForgeHooks
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.delegate
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.getDurabilityForDisplay
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.getModel
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.onEntitySwing
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.shouldCauseReequipAnimation
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.showDurabilityBar
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppsaaphssesaehpeaeepephhp.isCurativeItem
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.canRenderBreaking
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.getRenderBoundingBox
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.hasFastRenderer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.shouldRenderInPass
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.hpppesessehapeaaeasppepes.countEntities
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.hpppesessehapeaaeasppepes.getPerWorldStorage
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getCloudRenderer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getSkyRenderer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getWeatherRenderer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getSaveFolder
+Loading class from jar: net.minecraftforge.fml.client.GuiModList
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+Loading class from jar: net.minecraftforge.client.model.IColoredBakedQuad
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+Loading class from jar: net.minecraftforge.common.property.IExtendedBlockState
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+Loading class from jar: net.minecraftforge.client.model.IModel
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+Loading class from jar: net.minecraftforge.client.IRenderHandler
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+Loading class from jar: net.minecraftforge.client.model.pipeline.LightUtil
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+Loading class from jar: net.minecraftforge.common.MinecraftForge
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+Loading class from jar: net.minecraftforge.client.MinecraftForgeClient
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+Loading class from jar: net.minecraftforge.fml.common.ModContainer
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+Loading class from jar: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+Loading class from jar: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+Loading class from jar: net.minecraftforge.client.event.RenderItemInFrameEvent
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Post
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+Loading class from jar: net.minecraftforge.event.world.WorldEvent$Load
+[16:14:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[16:14:29] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[16:14:29] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+Loading class from jar: com.jagrosh.discordipc.entities.RichPresence$Builder
+[16:14:33] [Thread-11/INFO]: [LC Discord] Connected to Discord IPC
+[16:15:01] [Client thread/INFO]: Stopping!
+[16:15:01] [Client thread/INFO]: SoundSystem shutting down...
+[16:15:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+Loading class from jar: javax.servlet.ServletContext
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (12 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+onAuthPassed
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: LC
+[Launcher] Selected account: Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+[Launcher] Version sync info: VersionSyncInfo{id='LC',
+local=CompleteVersion{id='LC', time=Thu Dec 03 04:24:39 COT 2015, release=Thu Dec 03 04:24:39 COT 2015, type=release, class=com.moonsworth.lunar.patcher.LunarMain, minimumVersion=14, assets='1.8', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@1f66bde, libraries=[Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.23.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.7.59', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1d52c480, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@28f9359b, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@320d62b7, packed='null'}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@12e10d63, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@191cbd7b, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\servidor\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 271 ms.
+[TLauncherManager] add required libraries: LC
+[VersionManager] Required for version LC: []
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 510 ms.
+Minecraft requires java version: 8, java path: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[Downloader2] Files in queue 1
+[Downloader2] Starting download 1 files...
+[D#1] >  https://launcher.mojang.com/v1/objects/259edc45b4569427e8319895a444f4295d54348f/invalid32x32.gif 
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\servidor\AppData\Roaming\.minecraft\versions\LC\natives -cp C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\versions\LC\LC.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\servidor\AppData\Roaming\.minecraft com.moonsworth.lunar.patcher.LunarMain --username iFrozeadoo --version 1.8 --gameDir C:\Users\servidor\AppData\Roaming\.minecraft --assetsDir C:\Users\servidor\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid c4150ac3dea747a2be6fdf53c0bb5f80 --accessToken null --userProperties {} --userType mojang --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=TeamExtreme.io, ip=TeamExtreme.io, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft LC...
+[Launcher] Launching in: C:\Users\servidor\AppData\Roaming\.minecraft
+Starting garbage collector: 105 / 226 MB
+Garbage collector completed: 39 / 226 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+Finding dependency "com.mojang:netty:1.6": com/mojang/netty/1.6/netty-1.6.jar
+Finding dependency "oshi-project:oshi-core:1.1": oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+Finding dependency "net.java.dev.jna:jna:3.4.0": net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+Finding dependency "net.java.dev.jna:platform:3.4.0": net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+Finding dependency "com.ibm.icu:icu4j-core-mojang:51.2": com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+Finding dependency "net.sf.jopt-simple:jopt-simple:4.6": net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+Finding dependency "com.paulscode:codecjorbis:20101023": com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+Finding dependency "com.paulscode:codecwav:20101023": com/paulscode/codecwav/20101023/codecwav-20101023.jar
+Finding dependency "com.paulscode:libraryjavasound:20101123": com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+Finding dependency "com.paulscode:librarylwjglopenal:20100824": com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+Finding dependency "com.paulscode:soundsystem:20120107": com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+Finding dependency "io.netty:netty-all:4.0.23.Final": io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar
+Finding dependency "com.google.guava:guava:17.0": com/google/guava/guava/17.0/guava-17.0.jar
+Finding dependency "org.apache.commons:commons-lang3:3.3.2": org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+Finding dependency "commons-io:commons-io:2.4": commons-io/commons-io/2.4/commons-io-2.4.jar
+Finding dependency "commons-codec:commons-codec:1.9": commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+Finding dependency "net.java.jinput:jinput:2.0.5": net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+Finding dependency "net.java.jutils:jutils:1.0.0": net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+Finding dependency "com.google.code.gson:gson:2.2.4": com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+Finding dependency "com.mojang:authlib:1.5.21": com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+Finding dependency "com.mojang:realms:1.7.59": com/mojang/realms/1.7.59/realms-1.7.59.jar
+Finding dependency "org.apache.commons:commons-compress:1.8.1": org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+Finding dependency "org.apache.httpcomponents:httpclient:4.3.3": org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+Finding dependency "commons-logging:commons-logging:1.1.3": commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+Finding dependency "org.apache.httpcomponents:httpcore:4.3.2": org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+Finding dependency "org.apache.logging.log4j:log4j-api:2.0-beta9": org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+Finding dependency "org.apache.logging.log4j:log4j-core:2.0-beta9": org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+Finding dependency "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar
+Finding native "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209": org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+Couldn't get Minecraft library artifact for org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822
+Couldn't get Minecraft library artifact for net.java.jinput:jinput-platform:2.0.5
+Finding dependency "tv.twitch:twitch:6.5": tv/twitch/twitch/6.5/twitch-6.5.jar
+Couldn't get Minecraft library artifact for tv.twitch:twitch-platform:6.5
+Couldn't get Minecraft library artifact for tv.twitch:twitch-external-platform:4.5
+Adding dependency FAST UTIL
+[LC] Preloaded classes: 2926
+LUNARCLIENT_STATUS_INIT
+[Bridge] Setting Bridge Implementation to lunar.dd.lllIlllIllllIlIlIIllIllIl
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.jmdns.JmDNS
+Loading class from jar: org.fusesource.jansi.WindowsAnsiOutputStream
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: com.fasterxml.jackson.databind.ObjectMapper
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: javax.servlet.ServletContext
+Loading class from jar: org.fusesource.jansi.WindowsAnsiOutputStream
+2021-11-30 16:15:27,460 WARN Unable to instantiate org.fusesource.jansi.WindowsAnsiOutputStream
+Loading class from jar: org.java_websocket.client.WebSocketClient
+Loading class from jar: org.java_websocket.drafts.Draft
+Loading class from jar: org.java_websocket.drafts.Draft_6455
+[16:15:28] [Client thread/INFO]: Setting user: iFrozeadoo
+[16:15:28] [Client thread/INFO]: (Session ID is token:null:c4150ac3dea747a2be6fdf53c0bb5f80)
+[Bridge] Setting Minecraft Client instance to net.minecraft.v1_8.hshhappshsaphhshehsashpsa
+[16:15:31] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[16:15:31] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.Event$Result
+[16:15:31] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+Loading class from jar: net.minecraft.launchwrapper.Launch
+[16:15:31] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[16:15:31] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:15:32] [Client thread/INFO]: [OptiFine] 
+[16:15:32] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[16:15:32] [Client thread/INFO]: [OptiFine] Build: null
+[16:15:32] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[16:15:32] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[16:15:32] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[16:15:32] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[16:15:32] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[16:15:32] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[16:15:32] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[16:15:32] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[16:15:32] [VersionCheck/INFO]: [OptiFine] Checking for new version
+Loading class from jar: shadersmod.transform.SMCClassTransformer
+[16:15:32] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[16:15:32] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[16:15:32] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[16:15:32] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[16:15:32] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[16:15:32] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[16:15:32] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[16:15:32] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[16:15:32] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[16:15:32] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+Loading class from jar: net.minecraftforge.fml.common.Loader
+[16:15:32] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+Loading class from jar: net.minecraftforge.fml.client.SplashProgress
+[16:15:32] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[16:15:32] [Client thread/INFO]: Reloading ResourceManager: Default
+Loading class from jar: optifine.OptiFineClassTransformer
+[16:15:32] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[16:15:32] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[16:15:32] [Client thread/INFO]: [OptiFine] Resource packs: Default
+Loading class from jar: net.minecraftforge.client.model.Attributes
+[16:15:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[16:15:33] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppppsahheapsaashesashsssp$eahphhpeepsaaehssahsppshs.preDraw
+[16:15:33] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppppsahheapsaashesashsssp$eahphhpeepsaaehssahsppshs.postDraw
+If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[16:15:33] [Client thread/ERROR]: Couldn't initialize twitch stream
+[16:15:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:15:33] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[16:15:33] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[16:15:33] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+Loading class from jar: net.minecraftforge.client.ForgeHooksClient
+[16:15:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[16:15:35] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[16:15:35] [Client thread/INFO]: [OptiFine] Multitexture: false
+[16:15:35] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[16:15:35] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[16:15:35] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[16:15:35] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[16:15:36] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[16:15:36] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[16:15:39] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:15:39] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+Loading class from jar: net.minecraftforge.client.model.ModelLoader
+[16:15:39] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+Loading class from jar: net.minecraftforge.client.ItemModelMesherForge
+[16:15:40] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+Loading class from jar: net.minecraftforge.fml.client.registry.RenderingRegistry
+[16:15:40] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+Loading class from jar: net.minecraftforge.common.ForgeModContainer
+[16:15:40] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[16:15:40] [Client thread/INFO]: [LC] Starting Lunar client...
+[16:15:44] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_motionblur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/lunar_motionblur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.lIIIlIllIIIllllIllllIlIIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl$$Lambda$93/2080067911.accept(Unknown Source) [?:?]
+	at lunar.cR.lllIlllIIIlIIlIlllllIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.bm.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at lunar.cH.llIllIIIIIlIIIlIIIllIIIII.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cE.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at lunar.cH.llIllIIIIIlIIIlIIIllIIIII.<init>(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$startGame$afterInGame(SourceFile:3659) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 25 more
+Loading class from jar: org.slf4j.LoggerFactory
+Loading class from jar: org.slf4j.helpers.NOPLoggerFactory
+Loading class from jar: org.apache.log4j.Priority
+Loading class from jar: javassist.ClassPath
+Loading cosmetic index...
+[16:15:44] [Client thread/WARN]: [LC] LCUI TOP
+[16:15:44] [Client thread/WARN]: [LC] LCUI BOT
+[16:15:45] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.ea.lllIlllIllllIlIlIIllIllIl
+[16:15:45] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[16:15:45] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[16:15:45] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[16:15:45] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[16:15:45] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[16:15:45] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/menu_blur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/menu_blur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lIIIllIIIIlIIllIIIIIIIlll(Unknown Source) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cd.lllIlllIllllIlIlIIllIllIl.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.cu.IllIllIlIIlllIllIIllIlIIl.b_(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.IIlIIlIlIllllllllIllIlIll(Unknown Source) [?:?]
+	at lunar.aq.lllIlllIllllIlIlIIllIllIl.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$startGame$afterInGame(SourceFile:3659) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 22 more
+[16:15:45] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[16:15:45] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[16:15:45] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[16:15:45] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[16:15:46] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+Loading class from jar: org.joml.Vector4fc
+Loading class from jar: org.joml.Vector3fc
+Launching
+Loading class from jar: com.jagrosh.discordipc.IPCListener
+Loading class from jar: com.jagrosh.discordipc.IPCClient
+Loading class from jar: com.jagrosh.discordipc.entities.pipe.PipeStatus
+Loading class from jar: com.jagrosh.discordipc.entities.DiscordBuild
+[16:15:47] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/menu_blur.json
+net.minecraft.v1_8.pheasesespapeasppsssssaeh: Invalid shaders/program/menu_blur.json: null
+	at net.minecraft.v1_8.pheasesespapeasppsssssaeh.eppepeheeahsshesapphsaahp(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.eahhsspshshhpseaasapsshah.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.seheeashpphapeesspppssppe(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.ahaeahpaeeseaepsapaessahs(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.shpeheepapsesheehhahsphsa(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aphsehssaeashhshpesppaehe.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.hsepaespahahshshshsepssee(EntityRenderer.java:353) [?:?]
+	at net.minecraft.v1_8.asheshaesehaeaaseepaaepss.bridge$loadShader(EntityRenderer.java:3106) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lIIIllIIIIlIIllIIIIIIIlll(Unknown Source) [?:?]
+	at lunar.cm.lIIIllIIIIlIIllIIIIIIIlll.lllIlllIllllIlIlIIllIllIl(Unknown Source) [?:?]
+	at lunar.eD.lllIlllIllllIlIlIIllIllIl.eseeehaheeppasssepehhepps(Unknown Source) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.peseaasssshepahhahehasaee(SourceFile:819) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.bridge$displayScreen(SourceFile:3789) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.handler$zel000$impl$displayGuiScreen(SourceFile:3633) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.peseaasssshepahhahehasaee(SourceFile) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.sppaehaheeeaeaspahepeppap(SourceFile:476) [?:?]
+	at net.minecraft.v1_8.hshhappshsaphhshehsashpsa.eephasaaashaahaaaassheeap(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [LC.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.v1_8.hhppaehahassaahshepepapha.<init>(SourceFile:135) ~[?:?]
+	... 22 more
+LUNARCLIENT_STATUS_STARTED
+[Bridge] Using OptiFine wrapper
+Loading class from jar: mods.betterfoliage.client.BetterFoliageClient
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+Loading class from jar: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+Loading class from jar: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+Loading class from jar: net.minecraftforge.fml.relauncher.CoreModManager
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+Loading class from jar: net.minecraftforge.common.DimensionManager
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+Loading class from jar: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+Loading class from jar: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+Loading class from jar: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+Loading class from jar: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.Event
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+Loading class from jar: net.minecraftforge.fml.common.eventhandler.EventBus
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+Loading class from jar: net.minecraftforge.common.property.ExtendedBlockState
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+Loading class from jar: net.minecraftforge.fml.client.FMLClientHandler
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+Loading class from jar: net.minecraftforge.fml.common.FMLCommonHandler
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aspphhesssspshaphphpaepee.getWaterColorMultiplier
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.addDestroyEffects
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.addHitEffects
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.canCreatureSpawn
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.canRenderInLayer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.doesSideBlockRendering
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getBedDirection
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getExtendedState
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getLightOpacity
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.getLightValue
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.hasTileEntity
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isAir
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isBed
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isBedFoot
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.aphheapsahhpapeaassesheep.isSideSolid
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.heaeaephhsspphpahhphhepps.isSideSolid
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.canRiderInteract
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.captureDrops
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.capturedDrops
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.shouldRenderInPass
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.sppahhhheeeseaeehpshappsa.shouldRiderSit
+Loading class from jar: net.minecraftforge.event.ForgeEventFactory
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+Loading class from jar: net.minecraftforge.common.ForgeHooks
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.delegate
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.getDurabilityForDisplay
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.getModel
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.onEntitySwing
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.shouldCauseReequipAnimation
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ephhehshpaaeshesspaehpssa.showDurabilityBar
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppsaaphssesaehpeaeepephhp.isCurativeItem
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.canRenderBreaking
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.getRenderBoundingBox
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.hasFastRenderer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ppaphsaaspsaphhphhaaeahse.shouldRenderInPass
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.hpppesessehapeaaeasppepes.countEntities
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.hpppesessehapeaaeasppepes.getPerWorldStorage
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getCloudRenderer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getSkyRenderer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getWeatherRenderer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraft.v1_8.ssesspeaeapeeeaepasaspahp.getSaveFolder
+Loading class from jar: net.minecraftforge.fml.client.GuiModList
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+Loading class from jar: net.minecraftforge.client.model.IColoredBakedQuad
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+Loading class from jar: net.minecraftforge.common.property.IExtendedBlockState
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+Loading class from jar: net.minecraftforge.client.model.IModel
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+Loading class from jar: net.minecraftforge.client.IRenderHandler
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+Loading class from jar: net.minecraftforge.client.model.pipeline.LightUtil
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+Loading class from jar: net.minecraftforge.common.MinecraftForge
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+Loading class from jar: net.minecraftforge.client.MinecraftForgeClient
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+Loading class from jar: net.minecraftforge.fml.common.ModContainer
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+Loading class from jar: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+Loading class from jar: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+Loading class from jar: net.minecraftforge.client.event.RenderItemInFrameEvent
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Post
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+Loading class from jar: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+Loading class from jar: net.minecraftforge.event.world.WorldEvent$Load
+[16:15:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[16:15:47] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[16:15:47] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+Loading class from jar: com.jagrosh.discordipc.entities.RichPresence$Builder
+[16:15:52] [Thread-12/INFO]: [LC Discord] Connected to Discord IPC
+[16:15:56] [Thread-6/INFO]: OpenAL initialized.
+[16:15:56] [Sound Library Loader/INFO]: Sound engine started
+Loading class from jar: javafx.application.Application
+Loading class from jar: javafx.scene.Parent
+Loading class from jar: javafx.scene.web.WebView
+Loading class from jar: javafx.application.Platform
+nov 30, 2021 4:16:55 P.M. com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+ADVERTENCIA: Resource "com/sun/javafx/scene/control/skin/modena/modena.css" not found.
+Loading class from jar: javafx.scene.web.WebEngine
+Loading class from jar: javafx.scene.web.WebHistory
+Loading class from jar: javafx.collections.ListChangeListener$Change
+Loading class from jar: javafx.stage.Stage
+Loading class from jar: javafx.collections.ListChangeListener
+Loading class from jar: javafx.collections.ObservableList
+Loading class from jar: javafx.scene.Scene
+Loading class from jar: javafx.scene.image.Image
+Loading class from jar: javafx.scene.web.WebHistory$Entry
+[16:17:03] [Client thread/INFO]: [LC Accounts] Generated client token: de1c3991cc504080859b5706626b15f4
+[16:17:03] [Client thread/INFO]: [LC Accounts] Initialized authentication service with client token de1c3991cc504080859b5706626b15f4
+[16:17:03] [Client thread/INFO]: Logging in with username & password
+[16:17:04] [Client thread/INFO]: [LC Accounts] Reused client token: de1c3991cc504080859b5706626b15f4
+[16:17:04] [Client thread/INFO]: Logging in with username & password
+[16:17:39] [Client thread/INFO]: Stopping!
+[16:17:39] [Client thread/INFO]: SoundSystem shutting down...
+[16:17:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+Exception in thread "Thread-19" java.lang.IncompatibleClassChangeError
+Loading class from jar: javax.servlet.ServletContext
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (106 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

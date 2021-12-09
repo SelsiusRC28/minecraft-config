@@ -1,0 +1,1176 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.83 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: dic 7, 2021 1:46:36 p.m.
+Running folder C:\Users\servidor\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 8191 MB RAM
+java path=C:\Users\servidor\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Phenom(tm) II X2 560 Processor
+ AMD Radeon HD 5450, AMD Radeon Graphics Processor (0x68F9), 5874 MB
+-------------------------------------------------------
+Selected locale: es_ES
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.83&client=2521bb4f-2bad-4a67-be3e-4688d97bb07f
+[Updater] Request time: 103 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 37 / 109 MB
+Garbage collector completed: 21 / 165 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\servidor\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\servidor\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 114 ms.
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm during 2
+[Browser@179484382] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_es.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+Started! (8438 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[VersionManager] Refreshing versions remotely...
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 85 ms.
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 56 ms.
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 89 ms.
+[SkinVersionList] Got in 91 ms
+[ExtraVersionList] Got in 162 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1688 ms.
+[OfficialVersionList] Got in 1936 ms
+[VersionManager] Versions has been refreshed (2052 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 70 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 66 ms.
+[Double running] clear time label
+saved account Account{displayName=iiF, userid=iiF, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iiF}
+save profiles
+saved account Account{displayName=i, userid=i, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=i}
+save profiles
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+onAuthPassed
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: Lunar Client by Gabandy
+[Launcher] Selected account: Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+[Launcher] Version sync info: VersionSyncInfo{id='Lunar Client by Gabandy',
+local=CompleteVersion{id='Lunar Client by Gabandy', time=Thu Dec 03 04:24:39 COT 2015, release=Thu Dec 03 04:24:39 COT 2015, type=release, class=net.minecraft.client.main.Main, minimumVersion=14, assets='1.8', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@93ed450, libraries=[Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.23.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.7.59', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@7815fb01, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@122bf81c, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@63d5f917, packed='null'}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@1c362d69, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@4b2c001d, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:!        §l§5NotRamix §4[Private] (1).zip,assets,pack.mcmeta,pack.png
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\servidor\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 302 ms.
+[TLauncherManager] add required libraries: Lunar Client by Gabandy
+[VersionManager] Required for version Lunar Client by Gabandy: []
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 459 ms.
+Minecraft requires java version: 8, java path: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+java.nio.charset.MalformedInputException: Input length = 1
+at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+at java.io.InputStreamReader.read(InputStreamReader.java:184)
+at java.io.BufferedReader.fill(BufferedReader.java:161)
+at java.io.BufferedReader.readLine(BufferedReader.java:324)
+at java.io.BufferedReader.readLine(BufferedReader.java:389)
+at java.nio.file.Files.readAllLines(Files.java:3205)
+at org.tlauncher.tlauncher.minecraft.launcher.assitent.LanguageAssistance.constructProgramArguments(LanguageAssistance.java:32)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.constructProcess(MinecraftLauncher.java:672)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:265)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:509)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:166)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:44)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:384)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:377)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:336)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:210)
+
+[Launcher] Full command: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\natives -cp C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\Lunar Client by Gabandy.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\servidor\AppData\Roaming\.minecraft net.minecraft.client.main.Main --username iFrozeadoo --version Lunar Client by Gabandy --gameDir C:\Users\servidor\AppData\Roaming\.minecraft --assetsDir C:\Users\servidor\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid c4150ac3dea747a2be6fdf53c0bb5f80 --accessToken null --userProperties {} --userType mojang --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=TeamExtreme.io, ip=TeamExtreme.io, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.cosmicmc.com, ip=mc.cosmicmc.com, port=null, hideAddress=false, acceptTextures=1), Server(name=Servidor de Minecraft, address=librecraft.com, ip=librecraft.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=astralmc.cc, ip=astralmc.cc, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=hazelmc.com, ip=hazelmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=sololegends.net, ip=sololegends.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=dynamicpvp.net, ip=dynamicpvp.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.comugamers.com, ip=mc.comugamers.com, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft Lunar Client by Gabandy...
+[Launcher] Launching in: C:\Users\servidor\AppData\Roaming\.minecraft
+Starting garbage collector: 165 / 235 MB
+Garbage collector completed: 39 / 235 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+LUNARCLIENT_STATUS_INIT
+[Bridge] Setting Bridge Implementation to lunar.da.IlllIIIIIlllllllIIIIIllIl
+[14:05:23] [Client thread/INFO]: Setting user: iFrozeadoo
+[14:05:23] [Client thread/INFO]: (Session ID is token:null:c4150ac3dea747a2be6fdf53c0bb5f80)
+[Bridge] Setting Minecraft Client instance to ave
+[14:05:25] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[14:05:25] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:05:25] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[14:05:25] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[14:05:25] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:05:25] [Client thread/INFO]: [OptiFine] 
+[14:05:25] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[14:05:25] [Client thread/INFO]: [OptiFine] Build: null
+[14:05:25] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:05:25] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[14:05:25] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:05:25] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[14:05:25] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[14:05:25] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[14:05:25] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[14:05:25] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[14:05:25] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:05:25] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[14:05:25] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[14:05:25] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[14:05:25] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[14:05:25] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:05:25] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:05:25] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[14:05:25] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[14:05:25] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[14:05:25] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[14:05:25] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[14:05:25] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[14:05:25] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[14:05:25] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[14:05:25] [Client thread/INFO]: Reloading ResourceManager: Default, !        �l�5NotRamix �4[Private] (1).zip
+[14:05:25] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[14:05:25] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[14:05:25] [Client thread/INFO]: [OptiFine] Resource packs: !        �l�5NotRamix �4[Private] (1).zip
+[14:05:26] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[14:05:26] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.preDraw
+[14:05:26] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.postDraw
+If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[14:05:26] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:05:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:05:26] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[14:05:26] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[14:05:26] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:05:26] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:05:26] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[14:05:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[14:05:27] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[14:05:27] [Client thread/INFO]: [OptiFine] Multitexture: false
+[14:05:27] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[14:05:27] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:05:27] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:05:27] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:05:28] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:05:28] [Thread-6/INFO]: OpenAL initialized.
+[14:05:28] [Sound Library Loader/INFO]: Sound engine started
+[14:05:28] [Client thread/INFO]: [OptiFine] Animated sprites: 15
+[14:05:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[14:05:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[14:05:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[14:05:29] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[14:05:29] [Client thread/INFO]: [LC] Starting Lunar client...
+Loading cosmetic index...
+[14:05:32] [Client thread/WARN]: [LC] LCUI TOP
+[14:05:32] [Client thread/WARN]: [LC] LCUI BOT
+[14:05:34] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.dX.IlllIIIIIlllllllIIIIIllIl
+[14:05:34] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[14:05:34] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:05:34] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:05:34] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:05:34] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:05:34] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:05:34] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:05:34] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:05:34] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:05:34] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id 0721000a602e3c03803a30316ec1886c: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id 306dd6ab6aad35b886ac2cbb0ee254b6: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id 9f0e033a274d31748b9144573938ceb7: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id c34a048b4f6639008bff428b8d0d179b: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id d79ef223e6733cec910e02d20156df16: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:05:34] [Client thread/INFO]: [LC Accounts] Could not load account with id afee05aacc89375d924de7cd89bf476e: no profile
+Launching
+LUNARCLIENT_STATUS_STARTED
+[Bridge] Using OptiFine wrapper
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: ady.getWaterColorMultiplier
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addDestroyEffects
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addHitEffects
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canCreatureSpawn
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canRenderInLayer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.doesSideBlockRendering
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getBedDirection
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getExtendedState
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightOpacity
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightValue
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.hasTileEntity
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isAir
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBed
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBedFoot
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isSideSolid
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adv.isSideSolid
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.canRiderInteract
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.captureDrops
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.capturedDrops
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRenderInPass
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRiderSit
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: zw.delegate
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getDurabilityForDisplay
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getModel
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.onEntitySwing
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.shouldCauseReequipAnimation
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.showDurabilityBar
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pf.isCurativeItem
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.canRenderBreaking
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.getRenderBoundingBox
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.hasFastRenderer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.shouldRenderInPass
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.countEntities
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.getPerWorldStorage
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getCloudRenderer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSkyRenderer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getWeatherRenderer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSaveFolder
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[14:05:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[14:05:35] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:05:35] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[14:05:35] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[14:05:35] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 6aef3f
+[14:05:35] [Client thread/INFO]: [OptiFine] CustomColors: sky.end = FFFFFF
+[14:05:35] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[14:05:35] [Client thread/WARN]: [OptiFine] Unknown blend: normal
+[14:05:36] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[14:05:36] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[14:05:37] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[14:05:54] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[14:05:54] [Server thread/INFO]: Generating keypair
+[14:05:54] [Server thread/INFO]: Preparing start region for level 0
+[14:05:55] [Server thread/INFO]: Preparing spawn area: 76%
+[14:05:56] [Server thread/INFO]: Changing view distance to 33, from 10
+[14:05:57] [Server thread/INFO]: iFrozeadoo[local:E:2c224d69] logged in with entity id 229 at (-24.32755452247997, 64.0, -0.21138875416492486)
+[14:05:57] [Server thread/INFO]: iFrozeadoo (antes conocido como brayanrc16) se ha unido a la partida
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (42 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: -805306369
+flush now
+[Launcher] [Crash] Signature "PermGen error" matches!
+[Crash] Signature "PermGen error" matches!
+[Launcher] [Crash] Crash has been recognized!
+[Crash] Crash has been recognized!
+flush now
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+onAuthPassed
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: Lunar Client by Gabandy
+[Launcher] Selected account: Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+[Launcher] Version sync info: VersionSyncInfo{id='Lunar Client by Gabandy',
+local=CompleteVersion{id='Lunar Client by Gabandy', time=Thu Dec 03 04:24:39 COT 2015, release=Thu Dec 03 04:24:39 COT 2015, type=release, class=net.minecraft.client.main.Main, minimumVersion=14, assets='1.8', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@93ed450, libraries=[Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.23.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.7.59', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@11c477cc, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@66b1ccde, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1dde4adc, packed='null'}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@388856ae, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@ac03c64, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:!        §l§5NotRamix §4[Private] (1).zip,assets,pack.mcmeta,pack.png
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\servidor\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 129 ms.
+[TLauncherManager] add required libraries: Lunar Client by Gabandy
+[VersionManager] Required for version Lunar Client by Gabandy: []
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 5025 ms.
+Minecraft requires java version: 8, java path: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+java.nio.charset.MalformedInputException: Input length = 1
+at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+at java.io.InputStreamReader.read(InputStreamReader.java:184)
+at java.io.BufferedReader.fill(BufferedReader.java:161)
+at java.io.BufferedReader.readLine(BufferedReader.java:324)
+at java.io.BufferedReader.readLine(BufferedReader.java:389)
+at java.nio.file.Files.readAllLines(Files.java:3205)
+at org.tlauncher.tlauncher.minecraft.launcher.assitent.LanguageAssistance.constructProgramArguments(LanguageAssistance.java:32)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.constructProcess(MinecraftLauncher.java:672)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:265)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:509)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:166)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:44)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:384)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:377)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:336)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:210)
+
+[Launcher] Full command: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\natives -cp C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\Lunar Client by Gabandy.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\servidor\AppData\Roaming\.minecraft net.minecraft.client.main.Main --username iFrozeadoo --version Lunar Client by Gabandy --gameDir C:\Users\servidor\AppData\Roaming\.minecraft --assetsDir C:\Users\servidor\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid c4150ac3dea747a2be6fdf53c0bb5f80 --accessToken null --userProperties {} --userType mojang --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=TeamExtreme.io, ip=TeamExtreme.io, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.cosmicmc.com, ip=mc.cosmicmc.com, port=null, hideAddress=false, acceptTextures=1), Server(name=Servidor de Minecraft, address=librecraft.com, ip=librecraft.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=astralmc.cc, ip=astralmc.cc, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=hazelmc.com, ip=hazelmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=sololegends.net, ip=sololegends.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=dynamicpvp.net, ip=dynamicpvp.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.comugamers.com, ip=mc.comugamers.com, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft Lunar Client by Gabandy...
+[Launcher] Launching in: C:\Users\servidor\AppData\Roaming\.minecraft
+Starting garbage collector: 114 / 235 MB
+Garbage collector completed: 36 / 235 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+LUNARCLIENT_STATUS_INIT
+[Bridge] Setting Bridge Implementation to lunar.da.IlllIIIIIlllllllIIIIIllIl
+[14:07:12] [Client thread/INFO]: Setting user: iFrozeadoo
+[14:07:12] [Client thread/INFO]: (Session ID is token:null:c4150ac3dea747a2be6fdf53c0bb5f80)
+[Bridge] Setting Minecraft Client instance to ave
+[14:07:15] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[14:07:15] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:07:15] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[14:07:15] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[14:07:15] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:07:16] [Client thread/INFO]: [OptiFine] 
+[14:07:16] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[14:07:16] [Client thread/INFO]: [OptiFine] Build: null
+[14:07:16] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:07:16] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[14:07:16] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:07:16] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[14:07:16] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[14:07:16] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[14:07:16] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[14:07:16] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[14:07:16] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[14:07:16] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[14:07:16] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[14:07:16] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[14:07:16] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:07:16] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:07:16] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[14:07:16] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[14:07:16] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[14:07:16] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[14:07:16] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[14:07:16] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[14:07:16] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[14:07:16] [Client thread/INFO]: Reloading ResourceManager: Default, !        �l�5NotRamix �4[Private] (1).zip
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[14:07:16] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[14:07:16] [Client thread/INFO]: [OptiFine] Resource packs: !        �l�5NotRamix �4[Private] (1).zip
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.preDraw
+[14:07:16] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.postDraw
+If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[14:07:16] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:07:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:07:17] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[14:07:17] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:07:17] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:07:17] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[14:07:17] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[14:07:18] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[14:07:18] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[14:07:18] [Client thread/INFO]: [OptiFine] Multitexture: false
+[14:07:18] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[14:07:19] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:07:19] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:07:19] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:07:20] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:07:20] [Client thread/INFO]: [OptiFine] Animated sprites: 15
+[14:07:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[14:07:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[14:07:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[14:07:20] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[14:07:21] [Client thread/INFO]: [LC] Starting Lunar client...
+[14:07:21] [Thread-6/INFO]: OpenAL initialized.
+[14:07:21] [Sound Library Loader/INFO]: Sound engine started
+Loading cosmetic index...
+[14:07:25] [Client thread/WARN]: [LC] LCUI TOP
+[14:07:25] [Client thread/WARN]: [LC] LCUI BOT
+[14:07:26] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.dX.IlllIIIIIlllllllIIIIIllIl
+[14:07:26] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[14:07:26] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:07:26] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:07:26] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:07:26] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:07:26] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:07:26] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:07:26] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:07:26] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:07:26] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id 0721000a602e3c03803a30316ec1886c: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id 306dd6ab6aad35b886ac2cbb0ee254b6: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id 9f0e033a274d31748b9144573938ceb7: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id c34a048b4f6639008bff428b8d0d179b: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id d79ef223e6733cec910e02d20156df16: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:07:26] [Client thread/INFO]: [LC Accounts] Could not load account with id afee05aacc89375d924de7cd89bf476e: no profile
+Launching
+LUNARCLIENT_STATUS_STARTED
+[Bridge] Using OptiFine wrapper
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: ady.getWaterColorMultiplier
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addDestroyEffects
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addHitEffects
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canCreatureSpawn
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canRenderInLayer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.doesSideBlockRendering
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getBedDirection
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getExtendedState
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightOpacity
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightValue
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.hasTileEntity
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isAir
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBed
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBedFoot
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isSideSolid
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adv.isSideSolid
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.canRiderInteract
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.captureDrops
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.capturedDrops
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRenderInPass
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRiderSit
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: zw.delegate
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getDurabilityForDisplay
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getModel
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.onEntitySwing
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.shouldCauseReequipAnimation
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.showDurabilityBar
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pf.isCurativeItem
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.canRenderBreaking
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.getRenderBoundingBox
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.hasFastRenderer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.shouldRenderInPass
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.countEntities
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.getPerWorldStorage
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getCloudRenderer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSkyRenderer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getWeatherRenderer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSaveFolder
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[14:07:27] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[14:07:27] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 6aef3f
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomColors: sky.end = FFFFFF
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[14:07:28] [Client thread/WARN]: [OptiFine] Unknown blend: normal
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[14:07:28] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[14:07:29] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[14:07:30] [Thread-12/INFO]: [LC Discord] Connected to Discord IPC
+[14:07:55] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[14:07:55] [Server thread/INFO]: Generating keypair
+[14:07:56] [Server thread/INFO]: Preparing start region for level 0
+[14:07:57] [Server thread/INFO]: Preparing spawn area: 92%
+[14:07:57] [Server thread/INFO]: Changing view distance to 33, from 10
+[14:07:57] [Server thread/INFO]: iFrozeadoo[local:E:e64f2c64] logged in with entity id 229 at (-24.32755452247997, 64.0, -0.21138875416492486)
+[14:07:57] [Server thread/INFO]: iFrozeadoo se ha unido a la partida
+[14:08:03] [Thread-16/INFO]: Getting magma boss spawn estimate from server...
+[14:08:04] [Thread-16/INFO]: Got response code 200
+[14:08:04] [Thread-16/INFO]: Query time was 1638904069983, server time estimate is 1638906262613. Updating magma boss spawn to be in 2192 seconds.
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (34 ms)
+[Launcher] Minecraft closed with exit code: -805306369
+flush now
+[Launcher] Launcher exited.
+[Launcher] [Crash] Signature "PermGen error" matches!
+[Crash] Signature "PermGen error" matches!
+[Launcher] [Crash] Crash has been recognized!
+[Crash] Crash has been recognized!
+flush now
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+onAuthPassed
+saved account Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: Lunar Client by Gabandy
+[Launcher] Selected account: Account{displayName=iFrozeadoo, userid=iFrozeadoo, uuid=c4150ac3dea747a2be6fdf53c0bb5f80, username=iFrozeadoo}
+[Launcher] Version sync info: VersionSyncInfo{id='Lunar Client by Gabandy',
+local=CompleteVersion{id='Lunar Client by Gabandy', time=Thu Dec 03 04:24:39 COT 2015, release=Thu Dec 03 04:24:39 COT 2015, type=release, class=net.minecraft.client.main.Main, minimumVersion=14, assets='1.8', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@93ed450, libraries=[Library{name='com.mojang:netty:1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.0.23.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:17.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.21', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.7.59', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@362ec0cb, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@7cd5363e, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@26a70ee8, packed='null'}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@6d4234e4, packed='null'}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}, features=null}], natives={WINDOWS=natives-windows-${arch}}, extract=net.minecraft.launcher.versions.ExtractRules@2d2a891f, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:!        §l§5NotRamix §4[Private] (1).zip,assets,pack.mcmeta,pack.png
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\servidor\AppData\Roaming\.minecraft\assets\indexes\1.8.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 131 ms.
+[TLauncherManager] add required libraries: Lunar Client by Gabandy
+[VersionManager] Required for version Lunar Client by Gabandy: []
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 16074 ms.
+Minecraft requires java version: 8, java path: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:netty:1.6
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+java.nio.charset.MalformedInputException: Input length = 1
+at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+at java.io.InputStreamReader.read(InputStreamReader.java:184)
+at java.io.BufferedReader.fill(BufferedReader.java:161)
+at java.io.BufferedReader.readLine(BufferedReader.java:324)
+at java.io.BufferedReader.readLine(BufferedReader.java:389)
+at java.nio.file.Files.readAllLines(Files.java:3205)
+at org.tlauncher.tlauncher.minecraft.launcher.assitent.LanguageAssistance.constructProgramArguments(LanguageAssistance.java:32)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.constructProcess(MinecraftLauncher.java:672)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:265)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:509)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:166)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:44)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:384)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:377)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:336)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:210)
+
+[Launcher] Full command: C:\Users\servidor\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\natives -cp C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\tlauncher\netty\1.6\netty-1.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\servidor\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\servidor\AppData\Roaming\.minecraft\versions\Lunar Client by Gabandy\Lunar Client by Gabandy.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\servidor\AppData\Roaming\.minecraft net.minecraft.client.main.Main --username iFrozeadoo --version Lunar Client by Gabandy --gameDir C:\Users\servidor\AppData\Roaming\.minecraft --assetsDir C:\Users\servidor\AppData\Roaming\.minecraft\assets --assetIndex 1.8 --uuid c4150ac3dea747a2be6fdf53c0bb5f80 --accessToken null --userProperties {} --userType mojang --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=  §8/§7=§8[§aTeamExtreme§8]§7=§8\§f, address=TeamExtreme.io, ip=TeamExtreme.io, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.cosmicmc.com, ip=mc.cosmicmc.com, port=null, hideAddress=false, acceptTextures=1), Server(name=Servidor de Minecraft, address=librecraft.com, ip=librecraft.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=astralmc.cc, ip=astralmc.cc, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=hazelmc.com, ip=hazelmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=sololegends.net, ip=sololegends.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=dynamicpvp.net, ip=dynamicpvp.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.comugamers.com, ip=mc.comugamers.com, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft Lunar Client by Gabandy...
+[Launcher] Launching in: C:\Users\servidor\AppData\Roaming\.minecraft
+Starting garbage collector: 133 / 235 MB
+Garbage collector completed: 38 / 235 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+LUNARCLIENT_STATUS_INIT
+[Bridge] Setting Bridge Implementation to lunar.da.IlllIIIIIlllllllIIIIIllIl
+[14:10:30] [Client thread/INFO]: Setting user: iFrozeadoo
+[14:10:30] [Client thread/INFO]: (Session ID is token:null:c4150ac3dea747a2be6fdf53c0bb5f80)
+[Bridge] Setting Minecraft Client instance to ave
+[14:10:33] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[14:10:33] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[14:10:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event$Result
+[14:10:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[14:10:33] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:10:33] [Client thread/INFO]: [OptiFine] 
+[14:10:33] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[14:10:33] [Client thread/INFO]: [OptiFine] Build: null
+[14:10:33] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[14:10:33] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[14:10:33] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[14:10:33] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[14:10:33] [Client thread/INFO]: [OptiFine] OpenGL: P????L??	??^??j??, version 4.5.13399 Compatibility Profile Context 15.201.1151.1008, ATI Technologies Inc.
+[14:10:33] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.5.13399
+[14:10:33] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[14:10:33] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[14:10:33] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[14:10:33] [Client thread/INFO]: [Shaders] OpenGL Version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+[14:10:33] [Client thread/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[14:10:33] [Client thread/INFO]: [Shaders] Renderer: P????L??	??^??j??
+[14:10:33] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[14:10:33] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[14:10:33] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[14:10:33] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[14:10:33] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[14:10:33] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[14:10:33] [Client thread/INFO]: [Shaders] Shaders can not be loaded, Fast Render is enabled.
+[14:10:33] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[14:10:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[14:10:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[14:10:34] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[14:10:34] [Client thread/INFO]: Reloading ResourceManager: Default, !        �l�5NotRamix �4[Private] (1).zip
+[14:10:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: optifine.OptiFineClassTransformer
+[14:10:34] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[14:10:34] [Client thread/INFO]: [OptiFine] Resource packs: !        �l�5NotRamix �4[Private] (1).zip
+[14:10:34] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[14:10:34] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.preDraw
+[14:10:34] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: bmv$b.postDraw
+If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[14:10:34] [Client thread/ERROR]: Couldn't initialize twitch stream
+[14:10:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:10:34] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[14:10:34] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:10:34] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:10:34] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii.properties
+[14:10:34] [Client thread/INFO]: [OptiFine] Loading mcpatcher/font/ascii_sga.properties
+[14:10:35] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[14:10:36] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[14:10:36] [Client thread/INFO]: [OptiFine] Multitexture: false
+[14:10:36] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/glass/glass.properties
+[14:10:36] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:10:36] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[14:10:36] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[14:10:37] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:10:37] [Client thread/INFO]: [OptiFine] Animated sprites: 15
+[14:10:37] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[14:10:37] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[14:10:37] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[14:10:37] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeModContainer
+[14:10:38] [Client thread/INFO]: [LC] Starting Lunar client...
+[14:10:39] [Thread-6/INFO]: OpenAL initialized.
+[14:10:39] [Sound Library Loader/INFO]: Sound engine started
+Loading cosmetic index...
+[14:10:42] [Client thread/WARN]: [LC] LCUI TOP
+[14:10:42] [Client thread/WARN]: [LC] LCUI BOT
+[14:10:43] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.dX.IlllIIIIIlllllllIIIIIllIl
+[14:10:43] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (@VERSION@)
+[14:10:43] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:10:43] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:10:43] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:10:43] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:10:43] [Client thread/INFO]: [LC LANG] Language set as SPANISH (es_ES).
+[14:10:43] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/es_ES.
+[14:10:43] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[14:10:43] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/es_ES.
+[14:10:43] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id 0721000a602e3c03803a30316ec1886c: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id 306dd6ab6aad35b886ac2cbb0ee254b6: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id 9f0e033a274d31748b9144573938ceb7: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id c34a048b4f6639008bff428b8d0d179b: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id d79ef223e6733cec910e02d20156df16: no profile
+java.lang.IllegalStateException: no profile
+	at lunar.cC.IIIlIlIIIlIIIIIIIIllIIIIl.lIlIIIIIIlllIIIIIlIIIllIl(Unknown Source)
+	at lunar.cE.IIIlIlIIllIlIlIIllIIlllll.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.lllIIIIlIIllIIllIIllIIIll(Unknown Source)
+	at lunar.cB.IIIllllIlIIlIIIlIlIlllIII.d_(Unknown Source)
+	at lunar.cE.IlllIIIIIlllllllIIIIIllIl.IIIlIIIIIIlIlIllIllIlIIIl(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.lIlllIIIIllIlllIlIlIllIII(Unknown Source)
+	at lunar.aq.IlllIIIIIlllllllIIIIIllIl.<init>(Unknown Source)
+	at ave.handler$zzn000$impl$startGame$afterInGame(SourceFile:3157)
+	at ave.espephesshhepehhpppphhppp(SourceFile:471)
+	at ave.shaspappspappppeahaappahp(SourceFile:310)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+[14:10:43] [Client thread/INFO]: [LC Accounts] Could not load account with id afee05aacc89375d924de7cd89bf476e: no profile
+Launching
+LUNARCLIENT_STATUS_STARTED
+[Bridge] Using OptiFine wrapper
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkWatchEvent$UnWatch
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.relauncher.CoreModManager
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.Event
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.eventhandler.EventBus
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.ExtendedBlockState
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.FMLClientHandler
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.FMLCommonHandler
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: ady.getWaterColorMultiplier
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addDestroyEffects
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.addHitEffects
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canCreatureSpawn
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.canRenderInLayer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.doesSideBlockRendering
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getBedDirection
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getExtendedState
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightOpacity
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.getLightValue
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.hasTileEntity
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isAir
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBed
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isBedFoot
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: afh.isSideSolid
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adv.isSideSolid
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.canRiderInteract
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.captureDrops
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: pk.capturedDrops
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRenderInPass
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pk.shouldRiderSit
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Field not present: zw.delegate
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getDurabilityForDisplay
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.getModel
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.onEntitySwing
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.shouldCauseReequipAnimation
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: zw.showDurabilityBar
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: pf.isCurativeItem
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.canRenderBreaking
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.getRenderBoundingBox
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.hasFastRenderer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: akw.shouldRenderInPass
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.countEntities
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: adm.getPerWorldStorage
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getCloudRenderer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSkyRenderer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getWeatherRenderer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Method not present: anm.getSaveFolder
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.GuiModList
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IColoredBakedQuad
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.property.IExtendedBlockState
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[14:10:44] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[14:10:44] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[14:10:44] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[14:10:44] [Client thread/INFO]: [OptiFine] CustomColors: Loading mcpatcher/color.properties
+[14:10:44] [Client thread/INFO]: [OptiFine] CustomColors: lilypad = 6aef3f
+[14:10:44] [Client thread/INFO]: [OptiFine] CustomColors: sky.end = FFFFFF
+[14:10:44] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[14:10:44] [Client thread/WARN]: [OptiFine] Unknown blend: normal
+[14:10:45] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[14:10:45] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[14:10:45] [Thread-12/INFO]: [LC Discord] Connected to Discord IPC
+[14:10:46] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[14:11:03] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[14:11:03] [Server thread/INFO]: Generating keypair
+[14:11:03] [Server thread/INFO]: Preparing start region for level 0
+[14:11:04] [Server thread/INFO]: Preparing spawn area: 66%
+[14:11:05] [Server thread/INFO]: Changing view distance to 33, from 10
+[14:11:06] [Server thread/INFO]: iFrozeadoo[local:E:bf594f33] logged in with entity id 229 at (-24.32755452247997, 64.0, -0.21138875416492486)
+[14:11:06] [Server thread/INFO]: iFrozeadoo se ha unido a la partida
+[14:11:13] [Thread-16/INFO]: Getting magma boss spawn estimate from server...
+[14:11:14] [Thread-16/INFO]: Got response code 200
+[14:11:14] [Thread-16/INFO]: Query time was 1638904269982, server time estimate is 1638906262613. Updating magma boss spawn to be in 1992 seconds.
+[14:11:25] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@3fc988f4[id=c4150ac3-dea7-47a2-be6f-df53c0bb5f80,name=iFrozeadoo,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:71) ~[authlib-1.5.21.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [authlib-1.5.21.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:59) [authlib-1.5.21.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:56) [authlib-1.5.21.jar:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:165) [authlib-1.5.21.jar:?]
+	at ave.easahhapashapppppsaapsash(SourceFile:2556) [Lunar%20Client%20by%20Gabandy.jar:?]
+	at bnp$3.run(SourceFile:106) [Lunar%20Client%20by%20Gabandy.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method) ~[?:1.8.0_51]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345) ~[?:1.8.0_51]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_51]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_51]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_51]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_51]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668) ~[?:1.8.0_51]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432) ~[?:1.8.0_51]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1147) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512) ~[?:1.8.0_51]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440) ~[?:1.8.0_51]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254) ~[?:1.8.0_51]
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:126) ~[authlib-1.5.21.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:54) ~[authlib-1.5.21.jar:?]
+	... 19 more
+[14:12:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 54319ms behind, skipping 1086 tick(s)
+[14:12:00] [Server thread/INFO]: Saving and pausing game...
+[14:12:00] [Server thread/INFO]: Saving chunks for level 'Mundo nuevo'/Overworld
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (15 ms)
+[Launcher] Minecraft closed with exit code: -805306369
+flush now
+[Launcher] [Crash] Signature "PermGen error" matches!
+[Crash] Signature "PermGen error" matches!
+[Launcher] Launcher exited.
+[Launcher] [Crash] Crash has been recognized!
+[Crash] Crash has been recognized!
+flush now
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

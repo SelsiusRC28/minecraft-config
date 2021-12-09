@@ -1,0 +1,56 @@
+{
+  "Combat": {
+    "open": true,
+    "visible": true,
+    "posX": 674,
+    "posY": 89
+  },
+  "Player": {
+    "open": false,
+    "visible": true,
+    "posX": 437,
+    "posY": 1
+  },
+  "Movement": {
+    "open": true,
+    "visible": true,
+    "posX": 310,
+    "posY": 88
+  },
+  "Render": {
+    "open": true,
+    "visible": true,
+    "posX": 801,
+    "posY": 85
+  },
+  "World": {
+    "open": false,
+    "visible": true,
+    "posX": 145,
+    "posY": 50
+  },
+  "Misc": {
+    "open": false,
+    "visible": true,
+    "posX": 100,
+    "posY": 105
+  },
+  "Exploit": {
+    "open": false,
+    "visible": true,
+    "posX": 168,
+    "posY": 255
+  },
+  "Fun": {
+    "open": false,
+    "visible": true,
+    "posX": 100,
+    "posY": 145
+  },
+  "Targets": {
+    "open": false,
+    "visible": true,
+    "posX": 100,
+    "posY": 185
+  }
+}
